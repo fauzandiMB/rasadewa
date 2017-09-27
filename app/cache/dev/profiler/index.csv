@@ -1,0 +1,3 @@
+c88cef,::1,GET,http://localhost/rasadewa1/admin-dev/index.php/product/new?_token=t4six-bKUrTusJiHjwPWbJtOf9GDxHXgd3NAyVufwI4&token=23156ba046f9e5cd1eb5e32439c02a4a,1506524982,,302
+7885bd,127.0.0.1,GET,http://localhost/rasadewa1/admin-dev/index.php/_fragment?_path=_format%3Dhtml%26_locale%3Did-ID%26_controller%3DPrestaShopBundle%253AAdmin%252FProduct%253ArenderField,1506524995,dda93e,200
+dda93e,::1,GET,http://localhost/rasadewa1/admin-dev/index.php/product/form/8?_token=t4six-bKUrTusJiHjwPWbJtOf9GDxHXgd3NAyVufwI4,1506524996,,200
